@@ -3,14 +3,5 @@
 		{
 			"path": "."
 		},
-		{
-			"path": "${workspaceFolder}/../../../../libs"
-		},
-		{
-			"path": "${workspaceFolder}/../../../../addons"
-		}
-	],
-	"settings": {
-		"C_Cpp.intelliSenseEngine": "Tag Parser"
-	}
+	]
 }
